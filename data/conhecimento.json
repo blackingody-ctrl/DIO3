@@ -1,0 +1,27 @@
+{
+    "programacao": {
+        "python": "Python é uma linguagem de programação de alto nível, conhecida pela sintaxe simples e utilizada em desenvolvimento web, automação, análise de dados e inteligência artificial.",
+        "csharp": "C# é uma linguagem de programação desenvolvida pela Microsoft e muito utilizada no desenvolvimento de aplicações utilizando a plataforma .NET.",
+        "variavel": "Uma variável é utilizada para armazenar um valor que pode ser utilizado posteriormente durante a execução de um programa.",
+        "funcao": "Uma função é um bloco de código criado para executar uma determinada tarefa e pode receber parâmetros e retornar valores."
+    },
+    "web": {
+        "api": "Uma API permite que diferentes sistemas ou aplicações se comuniquem utilizando regras e formatos definidos.",
+        "rest": "REST é um estilo arquitetural utilizado na construção de serviços que trabalham com recursos e utilizam operações HTTP.",
+        "http": "HTTP é um protocolo utilizado para comunicação entre clientes e servidores na Web.",
+        "endpoint": "Endpoint é um endereço específico disponibilizado por uma API para realizar determinada operação."
+    },
+    "git": {
+        "git": "Git é um sistema de controle de versão utilizado para acompanhar alterações no código.",
+        "github": "GitHub é uma plataforma utilizada para hospedagem e colaboração em projetos de desenvolvimento.",
+        "commit": "Commit registra alterações realizadas no projeto dentro do histórico do Git.",
+        "branch": "Branch é uma linha independente de desenvolvimento dentro de um repositório Git."
+    },
+    "sql": {
+        "sql": "SQL é uma linguagem utilizada para consultar e manipular dados em bancos de dados relacionais.",
+        "select": "SELECT é utilizado para consultar dados em uma tabela.",
+        "insert": "INSERT é utilizado para adicionar registros em uma tabela.",
+        "update": "UPDATE é utilizado para alterar registros existentes.",
+        "delete": "DELETE é utilizado para remover registros."
+    }
+}
